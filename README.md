@@ -1,5 +1,5 @@
 # Roblox GPU Saver;BETTEREDITION
-Inspired from [ShawnJB/RobloxGPUSaver])https://github.com/shawnjb/roblox-gpu-saver)
+Inspired from [ShawnJB/RobloxGPUSaver](https://github.com/shawnjb/roblox-gpu-saver)
 
 ## Loader
 ```lua
